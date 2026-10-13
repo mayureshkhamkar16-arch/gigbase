@@ -1,4 +1,4 @@
-# ⚡ GigBase — Lead Hunting Platform for Freelance Web Developers
+# ⚡ GigBase - Lead Hunting Platform for Freelance Web Developers
 
 Find businesses without websites. Send personalized pitches. Close deals at ₹15K-50K.
 
